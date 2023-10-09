@@ -18,17 +18,31 @@
 .blog-post-image {
   cursor: pointer;
   border-radius: 8px;
-  background-color: var(--tertiary-background);
+  background-color: #000;
   height: 280px;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
 }
 
 .blog-post-modal .modal-body {
   height: 600px !important;
 }
 
+.blog-post-modal-close-btn {
+  position: absolute;
+  top: 16px;
+  right: 26px;
+}
+
 .additionalContent {
   font-size: 18px;
   margin: 32px 0 60px 0;
+}
+
+.blog-post-carousel-image {
+  object-fit: contain !important;
+  background-color: #000;
 }
 
 @media (max-width: 1200px) {
@@ -45,9 +59,6 @@
   }
   .blog-post-image {
     height: 22vw;
-  }
-  .blog-post-modal .modal-body {
-    height: 500px !important;
   }
   .additionalContent {
     font-size: 16px;

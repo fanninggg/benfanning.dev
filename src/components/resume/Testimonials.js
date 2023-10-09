@@ -20,7 +20,6 @@ export const Testimonials = () => {
   }
   
   const renderTestimonials = (items, name) => {
-    console.log(items)
     if (items.length > 0) {
       const testimonials = items.map((testimonial) => {
         return (
