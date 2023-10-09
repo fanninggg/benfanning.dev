@@ -1,0 +1,56 @@
+.portfolio-modal .modal-dialog {
+  max-width: 700px;
+}
+
+.portfolio-modal .modal-body {
+  padding: 0;
+  height: 370px;
+  width: 100%;
+  position: relative;
+}
+
+.portfolio-modal .modal-details {
+  background-color: var(--background);
+  padding: 35px 25px 90px 25px;
+  position: relative;
+  width: 100%;
+  border-radius: 0 0 3px 3px;
+  h3 {
+    margin: 0;
+  }
+  p {
+    color: var(--text);
+    margin: 0;
+    font-size: 17px;
+  }
+}
+
+.portfolio-modal .modal-divider {
+  height: 1px;
+  background: linear-gradient(145deg, #72f, #c1b);
+  width: 100%;
+  margin: 16px 0;
+}
+
+.portfolio-modal .modal-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: auto;
+  position: absolute;
+  width: calc(100% - 50px);
+  bottom: 16px;
+  left: 25px;
+}
+
+@media (max-width: 768px) {
+  .portfolio-modal .modal-dialog {
+    margin-top: 10vh;
+  }
+}
+
+@media (max-width: 480px) {
+  .portfolio-modal .modal-body {
+    height: 210px;
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "day": 1,
+    "title": "Five hour sunset",
+    "description": "It's day one, so not a huge number of photos, most of the day was spend building this site while chasing the setting sun across the Atlantic en route to Rio. Photos can be found down below, I likely won't upload every day while other days I might pop some bonus text content under the photos. Those expecting beautiful prose turn back now.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/b22dZDp.png", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""}
+    ],
+    "coords": [22.8174102,-43.2419276],
+    "additionalContent": ""
+  },
+  {
+    "day": 2,
+    "title": "Copacabana",
+    "description": "Checked into the Pura Vida Hostel and found out a few fun things today: #1 Universal travel adaptors don't work in Brazil. 2. Chase debit cards don't work at ATM's in Brazil. #3 Brazil is humid AF. For more revelations tune in tomorrow. ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/b2CdZDp.png", "caption": ""}
+    ],
+    "coords": [-22.9804624,-43.1947434],
+    "additionalContent": ""
+  }
+]

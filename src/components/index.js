@@ -1,0 +1,6 @@
+export * from './resume/Projects'
+export * from './resume/Landing'
+export * from './resume/About'
+export * from './resume/Testimonials'
+export * from './resume/Footer'
+export * from './shared/DarkMode'

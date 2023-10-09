@@ -1,0 +1,155 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "author": "Anonymous Review - Batch #173",
+      "position": "London - July 2018",
+      "content": "Super friendly and approachable guy. Could handle any problem I threw at him and always explained it in a very understandable way.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 1,
+      "author": "Anonymous Review - Batch #190",
+      "position": "London - October 2018",
+      "content": "Made issues simple, fun and seem easy to overcome. Very good communicator and great css styling tips. A really great guy and always fun to have around.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 2,
+      "author": "Anonymous Review - Batch #222",
+      "position": "London - January 2019",
+      "content": "Amazing developer and teacher, what I liked the most about his lessons was the fact that he seemed super confident, honest and patient.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 3,
+      "author": "Anonymous Review - Batch #222",
+      "position": "London - January 2019",
+      "content": "Ben is super nice and great at walking you through the steps needed to solve a front-end problem. He's also very humble despite having really amazing front-end skills.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 4,
+      "author": "Anonymous Review - Batch #287",
+      "position": "London - July 2019",
+      "content": "Ben is one of the best teachers at Le Wagon, he is super knowledgeable, very helpful and very good at explaining. Ben’s positive and energetic attitude helped a lot when I was feeling frustrated.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 5,
+      "author": "Anonymous Review - Batch #319",
+      "position": "London - October 2019",
+      "content": "Front-end legend! Very nice, careful and passionate. Always takes the time to answer all of your questions, even if the busiest times. He guides students very well! Fun guy too!",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 6,
+      "author": "Anonymous Review - Batch #319",
+      "position": "London - October 2019",
+      "content": "Fanning has a great manner of solving the problem with the student. He's incredibly personable so is great to have as a calming influence.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 7,
+      "author": "Anonymous Review - Batch #360",
+      "position": "London - January 2020",
+      "content": "A lot of design knowledge with a side of humour, Ben Fanning was very professional.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 8,
+      "author": "Anonymous Review - Batch #360",
+      "position": "London - January 2020",
+      "content": "An excellent teacher and a highly skilled programmer, always happy to help and offer his expert advice.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 9,
+      "author": "Anonymous Review - Batch #360",
+      "position": "London - January 2020",
+      "content": "Mister Fanning always brings the enthusiasm for the day and always have a good laugh when he's around. Always the go-to guy for any front end issues.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 10,
+      "author": "Anonymous Review - Batch #388",
+      "position": "London - April 2020",
+      "content": "Ben has a way of presenting information that is remarkably structured, clear, and precise, just like his problem-solving process. Super helpful.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 11,
+      "author": "Anonymous Review - Batch #388",
+      "position": "London - April 2020",
+      "content": "Great guy, really professional and nice. I felt like my issues were simple when he helped me solved them but he didn't make me feel stupid for not knowing how to resolve them.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 12,
+      "author": "Anonymous Review - Batch #390",
+      "position": "London - April 2020",
+      "content": "Ben commands respect merely through the deep knowledge of his craft and his disciplined approach. His experience as a full-time developer informs his teaching style bringing a very realistic approach to developing and delivering a polished project that would stand not just at the end of the bootcamp but in the real world as well. Definitely someone you can learn a lot from.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    },
+    {
+      "id": 13,
+      "author": "Anonymous Review - Batch #423",
+      "position": "London - July 2020",
+      "content": "Ben knows his stuff and is really good at explaining and communicating to you the issue you dont understand. Great at problem solving and making lectures fun. Chilled personality - just makes a better learning environment.",
+      "avatar": "https://i.ibb.co/6XZy3ph/le-wagon.png"
+    }
+  ],
+  "clients": [
+    {
+      "id": 0,
+      "author": "Philippa Smith",
+      "position": "Managing Director - Silver Swan Recruitment",
+      "content": "Ben has not only been a pleasure to work with but absolutely brilliant at what he does. He has built such a unique web based app for my agency which has completely revolutionise the way we work whilst helping us to really stand out from our competitors.",
+      "avatar": "https://i.imgur.com/z5BAt6z.jpg"
+    }, 
+    {
+      "id": 2,
+      "author": "Nathan Key",
+      "position": "CEO & Co-Founder - Navvigo",
+      "content": "If you are looking for a frontend developer to build and polish your product, there is no one more competent, trustworthy, and skilled than Ben. I would recommend him with my eyes closed.",
+      "avatar": "https://i.imgur.com/cXuNhnI.jpg"
+    },
+    {
+      "id": 3,
+      "author": "Rebecca Christophersen",
+      "position": "Strategy & Operations Manager - Le Wagon",
+      "content": "I have really enjoyed working with Ben for the last 18 months. He is professional, reliable and great fun to have around. He is a super strong developer, with a particular knack for spotting minute UX and UI improvements to be made to build better and more beautiful applications. We'll miss seeing you every day, Ben!",
+      "avatar": "https://i.imgur.com/6ovoe1X.jpg"
+    }, 
+    {
+      "id": 4,
+      "author": "Pierre Rakotovao",
+      "position": "CEO & Co-Founder - Idopia",
+      "content": "A lot can be said about Ben, and it is only positive, it was amazing working with him! He is always in a good mood and is consistently striving to do his job the best way possible.",
+      "avatar": "https://i.imgur.com/Pg7S2ic.jpg"
+    }
+  ],
+  "colleagues": [
+    {
+      "id": 0,
+      "author": "Jose De La Pena",
+      "position": "Head of Engineering - Gen H",
+      "content": "Ben's contribution to company culture is undeniable. From his ability to effectively communicate across teams and take interest in other people's work, to his contribution to the social committee, he's a role model. Everyone agrees Ben makes Gen H a better workplace.",
+      "avatar": "https://i.imgur.com/svzhMJh.jpg"
+    },
+    {
+      "id": 1,
+      "author": "Antony Noel Ragu",
+      "position": "Product Engineer - Gen H",
+      "content": "Ben continues to be a delivering power house. Many of the things other developers find hard seem to come easy to him. He's a perfect example of how to communicate with other teams within and outside the product engineering team. The team knows they can count on him and he's taken the responsibility on helping them make the right decisions and adopt best practices.",
+      "avatar": "https://i.imgur.com/BHSl1Qe.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Waldemar Schwan",
+      "position": "Tech Lead - Gen H",
+      "content": "Ben's communication skills are excellent and he can explain in both technical and layman's terms which is helpful. Ben has a great grasp of architecture and is varied and malleable with his approach being able to adopt different practices and processes easily.",
+      "avatar": "https://avatars.githubusercontent.com/u/34974?v=4"
+    }
+  ]
+}

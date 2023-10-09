@@ -1,0 +1,32 @@
+.travel-carousel-flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.travel-carousel-arrow {
+  cursor: pointer;
+  svg {
+    width: 44px;
+    height: 44px;
+  }
+  &.disabled {
+    cursor: not-allowed;
+    opacity: 0.3;
+  }
+}
+
+.travel-loader {
+  max-width: 1200px;
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+  @media (max-width: 1200px) {
+    max-width: 90%;
+    width: 90%;
+  }
+}
