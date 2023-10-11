@@ -28,5 +28,23 @@
     ],
     "coords": [-22.9804624,-43.1947434],
     "additionalContent": ""
+  }, 
+  {
+    "day": 3,
+    "title": "The Botanical Gardens",
+    "description": "Weather was due to be pretty crap so I went for a big old stroll today to visit Ipanema beach, have lunch where The Girl from Ipanema was written (thanks for the recommendation Julio!) and see the botanical gardens. Turns out I'm a terrible wildlife photographer and missed all the monkeys and cool birds. Finished the day with happy hour and samba class back at the Pura Vida. ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/E1zLQ7m.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/yVO6uVq.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/UMOs6ao.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/rstPtEL.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/yne5Nu8.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/BBA0QRd.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/ozIVRKy.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/eN9RztQ.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/q1whRJH.png", "caption": ""}
+    ],
+    "coords": [-22.9637848,-43.222283],
+    "additionalContent": ""
   }
 ]
