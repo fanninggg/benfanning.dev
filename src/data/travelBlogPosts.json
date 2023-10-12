@@ -17,7 +17,7 @@
   {
     "day": 2,
     "title": "Copacabana",
-    "description": "Checked into the Pura Vida Hostel and found out a few fun things today: #1 Universal travel adaptors don't work in Brazil. #2 Chase debit cards don't work at ATM's in Brazil. #3 My sweat glands work really well in Brazil, it is humid af. For more revelations (plus that image of south america replaced with something else) tune in tomorrow. ",
+    "description": "Checked into the Pura Vida Hostel and found out a few fun things today: #1 Universal travel adaptors don't work in Brazil. #2 Chase debit cards don't work at ATM's in Brazil. #3 My sweat glands work really well in Brazil, it is humid af. For more revelations (and maybe that image of south america replaced with something else) tune in tomorrow. ",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/Y3tnaSb.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/D7LITXA.jpg", "caption": ""},
@@ -32,7 +32,7 @@
   {
     "day": 3,
     "title": "The Botanical Gardens",
-    "description": "Weather was due to be pretty crap so I went for a big old stroll today to visit Ipanema beach, have lunch where The Girl from Ipanema was written (thanks for the recommendation Julio!) and see the botanical gardens. Turns out I'm a terrible wildlife photographer and missed all the monkeys and cool birds. Finished the day with happy hour and samba class back at the Pura Vida. ",
+    "description": "The weather was a bit questionable today so I went for a big ol' stroll to: visit Ipanema beach, have lunch where The Girl from Ipanema was written (thanks for the recommendation Julio!) and see the botanical gardens. Turns out I'm a terrible wildlife photographer and missed all the monkeys and cool birds. Finished the day with happy hour and samba class back at the Pura Vida. ",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/E1zLQ7m.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/yVO6uVq.jpg", "caption": ""},
@@ -45,6 +45,21 @@
       {"id": 8, "src": "https://i.imgur.com/q1whRJH.png", "caption": ""}
     ],
     "coords": [-22.9637848,-43.222283],
+    "additionalContent": ""
+  },
+  {
+    "day": 5,
+    "title": "Caipirinhas & Beach volleyball",
+    "description": "It's been 30° and sunny for the last 2 days so I've barely left the beach and rarely brought my phone with me so not many good photos, sorry! I'm starting to think that portion control isn't a common phrase in Brazil as every meal is absolutely behemoth. Also I found a table in the shape of a butt, perfect for bottomless drinks hour.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/uRjT9wl.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/sLNjXY1.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/7Ke4a7S.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/Neq4ZIX.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/4WSIlTe.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/sBMhNvm.jpg", "caption": ""}
+    ],
+    "coords": [-22.9804624,-43.1947434],
     "additionalContent": ""
   }
 ]

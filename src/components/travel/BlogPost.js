@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { Modal, Carousel } from 'react-bootstrap';
-import image from "../../images/standin-globe.png"
+import globe from "../../images/globe.png"
 
 export const BlogPost = (props) => {
-  const {day, title, description, images, coords, additionalContent} = props.post
+  const {day, title, description, images, additionalContent} = props.post
 
   const [showModal, setShowModal] = useState(false);
   const [selectedPhoto, setSelectedPhoto] = useState()
@@ -37,9 +37,7 @@ export const BlogPost = (props) => {
     <div className="blog-post">
       <div className="blog-post-splash">
         <div className="globe">
-          {/* <p>{coords}</p> */}
-          <img src={image} alt="South America" style={{width: "100%", height: "100%"}}/>
-          {/* TODO: This needs to be an interactive globe that highlights the spot on the globe */}
+          <img src={globe} alt="South America & Oceania" style={{width: "100%", height: "100%"}}/>
         </div>
         <div>
           <h2>{title}</h2>
