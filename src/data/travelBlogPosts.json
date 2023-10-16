@@ -61,5 +61,32 @@
     ],
     "coords": [-22.9804624,-43.1947434],
     "additionalContent": ""
+  },
+  {
+    "day": 8,
+    "title": "Thunderstorms & Rugby",
+    "description": "The thunderstorms in Rio are intense! I thought a bomb had gone off near my hostel last night. With weather like this the only thing to do was find an Irish pub (they really are everywhere) and watch the rugby. Also destroyed the competition at karaoke, although there is no photo or video proof so you'll just have to trust me. 10 points to anyone who can guess the flag.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/ui9sTqb.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/Q6raKI7.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/FP1nudK.jpg", "caption": ""}
+    ],
+    "coords": [-22.9804624,-43.1947434],
+    "additionalContent": ""
+  },
+  {
+    "day": 9,
+    "title": "Morro Dois Irmãos",
+    "description": "A group of us went for a morning hike up the two brothers, which stand over the west side of Rio and give you an unreal view of the city and the largets favela in Latin America. A motorbike ride through the favela gets you to the start of the hike (sorry mum) and after an hour or two of sweaty jungle climbing you get a pretty sweet reward for your efforts.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/HufibJU.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/Rm97pYL.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/jVBIYuL.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/jMDQowK.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/ufoVsqG.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/cJPmHTt.jpg", "caption": ""}
+    ],
+    "coords": [-22.9867143,-43.2458388],
+    "additionalContent": ""
   }
 ]
