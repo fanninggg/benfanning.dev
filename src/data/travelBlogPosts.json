@@ -1,7 +1,7 @@
 [
   {
     "day": 1,
-    "title": "Five hour sunset",
+    "title": "Five Hour Sunset",
     "description": "It's day one, so not a huge number of photos, most of the day was spend building this site while chasing the setting sun across the Atlantic en route to Rio (site improvements in the coming days). Photos can be found down below, I likely won't upload every day while other days I might pop some bonus text content under the photos. Those expecting beautiful prose turn back now.",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/aVjMqB8.jpg", "caption": ""},
@@ -49,7 +49,7 @@
   },
   {
     "day": 5,
-    "title": "Caipirinhas & Beach volleyball",
+    "title": "Caipirinhas & Beach Volleyball",
     "description": "It's been 30° and sunny for the last 2 days so I've barely left the beach and rarely brought my phone with me so not many good photos, sorry! I'm starting to think that portion control isn't a common phrase in Brazil as every meal is absolutely behemoth. Also I found a table in the shape of a butt, perfect for bottomless drinks hour.",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/uRjT9wl.jpg", "caption": ""},
@@ -85,6 +85,18 @@
       {"id": 3, "src": "https://i.imgur.com/jMDQowK.jpg", "caption": ""},
       {"id": 4, "src": "https://i.imgur.com/ufoVsqG.jpg", "caption": ""},
       {"id": 5, "src": "https://i.imgur.com/cJPmHTt.jpg", "caption": ""}
+    ],
+    "coords": [-22.9867143,-43.2458388],
+    "additionalContent": ""
+  },
+  {
+    "day": 11,
+    "title": "Couple Days of Culture",
+    "description": "Visited the museum of tomorrow and saw the sites up in the centre of town with a couple of friends. Ooh hostel friends. Also tried to go visit Christ the Redeemer but they closed it down for the day due to a storm toppling some trees, so going back to do that in a couple of days, hopefully with better weather. ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/Xxa5vme.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/eBiYCYz.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/IPnVIsO.jpg", "caption": ""}
     ],
     "coords": [-22.9867143,-43.2458388],
     "additionalContent": ""
