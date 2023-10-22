@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import { Modal, Carousel } from 'react-bootstrap';
-import globe from "../../images/globe.png"
 
 export const BlogPost = (props) => {
-  const {day, title, description, images, additionalContent} = props.post
+  const {day, title, description, images, location, additionalContent} = props.post
 
   const [showModal, setShowModal] = useState(false);
   const [selectedPhoto, setSelectedPhoto] = useState()
+  const locationImages = require.context("../../images/locations", true);
 
   const renderImageCarousel = () => {
     const slides = images.map((image) => {
@@ -32,12 +32,14 @@ export const BlogPost = (props) => {
     setSelectedPhoto(id)
     setShowModal(true)
   }
+
+  let locationImage = locationImages(`./${location}.png`);
   
   return (
     <div className="blog-post">
       <div className="blog-post-splash">
         <div className="globe">
-          <img src={globe} alt="South America & Oceania" style={{width: "100%", height: "100%"}}/>
+          <img src={locationImage} alt="South America & Oceania" style={{width: "100%", height: "100%"}}/>
         </div>
         <div>
           <h2>{title}</h2>

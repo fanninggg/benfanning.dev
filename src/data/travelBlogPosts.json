@@ -11,7 +11,7 @@
       {"id": 4, "src": "https://i.imgur.com/7391XYl.jpg", "caption": ""},
       {"id": 5, "src": "https://i.imgur.com/8bB9a90.jpg", "caption": ""}
     ],
-    "coords": [22.8174102,-43.2419276],
+    "location": "rio",
     "additionalContent": ""
   },
   {
@@ -26,7 +26,7 @@
       {"id": 4, "src": "https://i.imgur.com/P1ThFbl.jpg", "caption": ""},
       {"id": 5, "src": "https://i.imgur.com/rS3J2EY.jpg", "caption": ""}
     ],
-    "coords": [-22.9804624,-43.1947434],
+    "location": "rio",
     "additionalContent": ""
   }, 
   {
@@ -44,7 +44,7 @@
       {"id": 7, "src": "https://i.imgur.com/eN9RztQ.jpg", "caption": ""},
       {"id": 8, "src": "https://i.imgur.com/q1whRJH.png", "caption": ""}
     ],
-    "coords": [-22.9637848,-43.222283],
+    "location": "rio",
     "additionalContent": ""
   },
   {
@@ -59,7 +59,7 @@
       {"id": 4, "src": "https://i.imgur.com/4WSIlTe.jpg", "caption": ""},
       {"id": 5, "src": "https://i.imgur.com/sBMhNvm.jpg", "caption": ""}
     ],
-    "coords": [-22.9804624,-43.1947434],
+    "location": "rio",
     "additionalContent": ""
   },
   {
@@ -71,7 +71,7 @@
       {"id": 1, "src": "https://i.imgur.com/Q6raKI7.jpg", "caption": ""},
       {"id": 2, "src": "https://i.imgur.com/FP1nudK.jpg", "caption": ""}
     ],
-    "coords": [-22.9804624,-43.1947434],
+    "location": "rio",
     "additionalContent": ""
   },
   {
@@ -86,19 +86,37 @@
       {"id": 4, "src": "https://i.imgur.com/ufoVsqG.jpg", "caption": ""},
       {"id": 5, "src": "https://i.imgur.com/cJPmHTt.jpg", "caption": ""}
     ],
-    "coords": [-22.9867143,-43.2458388],
+    "location": "rio",
     "additionalContent": ""
   },
   {
     "day": 11,
     "title": "Couple Days of Culture",
-    "description": "Visited the museum of tomorrow and saw the sites up in the centre of town with a couple of friends. Ooh hostel friends. Also tried to go visit Christ the Redeemer but they closed it down for the day due to a storm toppling some trees, so going back to do that in a couple of days, hopefully with better weather. ",
+    "description": "Visited the museum of tomorrow and saw the sites up in the centre of town with a couple of friends. Ooh hostel friends. Also tried to go visit Christ the Redeemer but they closed it down for the day due to a storm toppling some trees, so going back to do that in a couple of days, hopefully with better weather.",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/Xxa5vme.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/eBiYCYz.jpg", "caption": ""},
       {"id": 2, "src": "https://i.imgur.com/IPnVIsO.jpg", "caption": ""}
     ],
-    "coords": [-22.9867143,-43.2458388],
+    "location": "rio",
+    "additionalContent": ""
+  },
+  {
+    "day": 14,
+    "title": "Ipanema",
+    "description": "Spent the last few days at the Mango Tree in Ipanema. Great place for parties & meeting people, would definitely recommend. I also went up to see the Christ the Redeemer statue, which actually looked really cool looming out of the clouds, shame about the non-existent view from the top but I did get to see some monkeys. Time now for a hungover 4 hour bus ride",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/rJOYU3T.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/Zo4RMwQ.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/cbzE8lE.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/ZylmYhc.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/SBbAQlc.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/nlI7EIf.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/6198O35.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/Pwd0Rq2.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/Hhv6Lyb.jpg", "caption": "Ciao Rio 👋"}
+    ],
+    "location": "rio",
     "additionalContent": ""
   }
 ]
