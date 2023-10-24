@@ -118,5 +118,26 @@
     ],
     "location": "rio",
     "additionalContent": ""
+  },
+  {
+    "day": 17,
+    "title": "Paraty Mirim",
+    "description": "The next stop on the journey is Paraty, a colourful little colonial town about 4 hours from Rio. Shoutout to Sarah for the recommendation, it's a really beautiful place, the weather is great, the hostel has a pool and the beer is cold so life is good.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/ofeOAL0.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/YVfanUk.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/iNV0ie7.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/cANI8iA.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/dHyCiuw.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/OFICFr9.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/xEN4rlf.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/GJbvAlh.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/oujbByh.jpg", "caption": ""},
+      {"id": 9, "src": "https://i.imgur.com/yENIiDC.jpg", "caption": ""},
+      {"id": 10, "src": "https://i.imgur.com/iqu8J69.jpg", "caption": ""},
+      {"id": 11, "src": "https://i.imgur.com/29vgzZC.jpg", "caption": ""}
+    ],
+    "location": "paraty",
+    "additionalContent": ""
   }
 ]

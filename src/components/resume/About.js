@@ -7,7 +7,7 @@ export const About = () => {
       <div className="about-background">
         <div className="about-text">
           <h2 data-aos='fade-up'>Hi I'm Ben. Nice to meet you.</h2>
-          <p data-aos='fade-up'>Since beginning my developer journey I have founded an award winning web development agency in London, taught over 500 students the basics of full stack development at the world's #1 coding bootcamp and worked closely with clients to deliver more than 20 market ready products. Recently I've moved away from the business & teaching side of things and focused more on pure development.</p>
+          <p data-aos='fade-up'>Since beginning my developer journey 5+ years ago I have founded an award winning web development agency in London, taught over 500 students the basics of full stack development at the world's #1 coding bootcamp and worked closely with clients to deliver more than 20 market ready products. Recently I've moved away from the business & teaching side of things and have been focusing more on pure development.</p>
         </div>
       </div>
       <div className="skills">
@@ -16,7 +16,7 @@ export const About = () => {
           <h3>Mentor</h3>
           <p className="">I take great joy in helping people discover coding and improve their professional skills.</p>
           <p className="skill-subtitle">Things I enjoy teaching:</p>
-          <p>Coding basics, advanced front-end</p>
+          <p>Rails, React, all things front-end</p>
           <p className="skill-subtitle">Teaching Stats</p>
           <ul>
             <li>5+ years experience</li>
