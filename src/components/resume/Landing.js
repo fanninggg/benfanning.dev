@@ -1,16 +1,13 @@
 import React, { useState } from 'react';
 import { Modal } from 'react-bootstrap';
 import { motion } from "framer-motion"
+import Resume from "../../data/resume.pdf";
 
 export const Landing = () => {
   const [showResume, setShowResume] = useState(false);
-  const [showCode, setShowCode] = useState(false);
 
   const handleResumeClose = () => setShowResume(false);
   const handleResumeShow = () => setShowResume(true);
-
-  const handleCodeClose = () => setShowCode(false);
-  const handleCodeShow = () => setShowCode(true);
 
   return (
     <div className="landing portfolio-section">
@@ -21,18 +18,12 @@ export const Landing = () => {
       </h1>
       <div className="landing-flex">
       </div>
-      <motion.a className="btn-linear landing-btn" onClick={handleResumeShow} whileHover={{ scale: 1.05 }}>View my resume</motion.a>
-      <motion.p className="text-link" onClick={handleCodeShow} whileHover={{ scale: 1.05 }} >...or see some code</motion.p>
+      <motion.a className="btn-linear landing-btn" href={Resume} download="BenFanningResume" whileHover={{ scale: 1.05 }}>Download my CV</motion.a>
+      <motion.a className="text-link landing-text-link" href="mailto:fanninggg@gmail.com" target="_blank" whileHover={{ scale: 1.05 }} >...or get in contact</motion.a>
       
       <Modal show={showResume} onHide={handleResumeClose} animation={false} style={{"color": "black"}}>
         <Modal.Body>
           <img className="resume-img" src="https://i.imgur.com/b2CdZDp.png" alt="Resume" />
-        </Modal.Body>
-      </Modal>
-      
-      <Modal show={showCode} onHide={handleCodeClose} animation={false} className="code-modal">
-        <Modal.Body>
-          <iframe src="https://github1s.com/fanninggg/portfolio" title="Website Code" allow></iframe>
         </Modal.Body>
       </Modal>
     </div>

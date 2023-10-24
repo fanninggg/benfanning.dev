@@ -89,6 +89,12 @@
   cursor: pointer;
 }
 
+.landing-text-link {
+  color: var(--text);
+  text-decoration: none;
+  display: block;
+}
+
 .resume-img {
   width: 100% !important;
   height: auto !important;
