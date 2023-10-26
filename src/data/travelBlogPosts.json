@@ -139,5 +139,26 @@
     ],
     "location": "paraty",
     "additionalContent": ""
+  },
+  {
+    "day": 19,
+    "title": "Jungle Treehouse",
+    "description": "So this stop was purely based on a recommendation from KK, she big shoutout to her because the Remo Hostel is pretty sweet, it's situated on a mountainside in the middle of the jungle with amazing views out towards the ocean. It was beautiful when I arrived but has rained consistently since, it is a rainforest I suppose. Anyway seeing as nobody else speaks any English this should be a good time to learn some Portguese.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/U2zczZ4.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/cR9tQYK.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/sVGTwvo.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/cGeIfQk.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/XKm39m8.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/iIEvCLk.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/ZZ6CJr6.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/JaWTKIP.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/qcUY1YH.jpg", "caption": ""},
+      {"id": 9, "src": "https://i.imgur.com/QA2e2Rh.jpg", "caption": ""},
+      {"id": 10, "src": "https://i.imgur.com/17Ce4YW.jpg", "caption": ""},
+      {"id": 11, "src": "https://i.imgur.com/zsy9N5F.jpg", "caption": ""}
+    ],
+    "location": "paraty",
+    "additionalContent": ""
   }
 ]
