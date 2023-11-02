@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import { Modal, Carousel } from 'react-bootstrap';
+import determineFadeDirection from '../../lib/helpers/determineFadeDirection';
 
 export const BlogPost = (props) => {
   const {day, title, description, images, location, additionalContent} = props.post
@@ -7,6 +8,7 @@ export const BlogPost = (props) => {
   const [showModal, setShowModal] = useState(false);
   const [selectedPhoto, setSelectedPhoto] = useState()
   const locationImages = require.context("../../images/locations", true);
+  let locationImage;
 
   const renderImageCarousel = () => {
     const slides = images.map((image) => {
@@ -33,7 +35,11 @@ export const BlogPost = (props) => {
     setShowModal(true)
   }
 
-  let locationImage = locationImages(`./${location}.png`);
+  try {
+    locationImage = locationImages(`./${location}.png`);
+  } catch (error) {
+    locationImage = locationImages(`./${location}.gif`);
+  }
   
   return (
     <div className="blog-post">
@@ -48,8 +54,14 @@ export const BlogPost = (props) => {
       </div>
      
       <div className="image-grid">
-        {images.map((image) => {
-          return (<img src={image.src} alt={`Day ${day} image`} className="blog-post-image" onClick={() => handleImageClick(image.id)} key={image.id} />)
+        {images.map((image, index) => {
+          return (<img 
+            src={image.src} 
+            alt={`Day ${day} image`} 
+            className="blog-post-image" 
+            onClick={() => handleImageClick(image.id)} key={image.id} 
+            data-aos={determineFadeDirection(index)}
+          />)
         })}
       </div>
 
@@ -66,5 +78,3 @@ export const BlogPost = (props) => {
     </div>
   )
 }
-
-// TODO: data-aos={determineFadeDirection(index + 1)}

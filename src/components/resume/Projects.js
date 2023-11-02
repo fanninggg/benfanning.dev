@@ -2,30 +2,14 @@ import React, { useState, useEffect } from 'react'
 import { motion } from "framer-motion"
 import { Modal, Carousel } from 'react-bootstrap';
 import projects from '../../data/projects.json'
+import determineFadeDirection from '../../lib/helpers/determineFadeDirection';
 
 export const Projects = () => {
   const [data, _setData] = useState(projects)
   const [show, setShow] = useState(false);
-  const [_windowWidth, setWindowWidth] = useState(window.innerWidth)
   const [selectedProject, setSelectedProject] = useState({});
   
   const handleClose = () => setShow(false);
-  const handleReize = () => {
-    setWindowWidth(window.innerWidth)
-  }
-
-  const determineFadeDirection = (index) => {
-    const width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
-    if (width < 769) return 'fade-up';
-    if (index === 1 || index === 4) return 'fade-left';
-    if (index === 3 || index === 6) return 'fade-right';
-    return 'fade-up';
-  }
-
-  window.addEventListener('resize', () => {
-    // Rerender projects with correct fade directions on window resize as well as refresh
-    handleReize();
-  })
 
   const handleClick = (id) => {
     setSelectedProject(data[id])
@@ -36,7 +20,7 @@ export const Projects = () => {
     if (data.length > 0) {
       const projectCards = data.map((project, index) => {
         return (
-          <div key={project.id} data-project={project.id} className="project" data-aos={determineFadeDirection(index + 1)}>
+          <div key={project.id} data-project={project.id} className="project" data-aos={determineFadeDirection(index)}>
             <img src={project.splash} alt="" className="project-img" />
             <div className="project-info">
               <h3>{project.tagline}</h3>

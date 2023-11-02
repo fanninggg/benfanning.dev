@@ -196,5 +196,17 @@
     ],
     "location": "ilha-grande",
     "additionalContent": ""
+  },
+  {
+    "day": 26,
+    "title": "Hola Argentina",
+    "description": "Buenos Aires is cold and wet 😅. It's about 15 degrees colder here than it was when I took off from Rio, good job I only packed a single fleece for this trip! Oh well the restaurants are warm and the steak dinner and bottle of wine I had last night cost all of £12. It's mainly just been flights and hotels for the last couple days so no good photos. But there's plenty of the sun in the forecast for this week so that should change soon, I'm staying in Recoleta for the next few days so if anyone has recommendations let me know.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/rVma94O.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/M6w7UFa.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/AKx6P04.jpg", "caption": ""}
+    ],
+    "location": "rio-buenos-aires",
+    "additionalContent": ""
   }
 ]
