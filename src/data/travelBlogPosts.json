@@ -208,5 +208,23 @@
     ],
     "location": "rio-buenos-aires",
     "additionalContent": ""
+  },
+  {
+    "day": 28,
+    "title": "Recoleta",
+    "description": "I love Buenos Aires. It's got a very relaxed vibe and feels very European when you're seated at a little cafe in the sunshine having lunch. I did the customary tour of the Recoleta Cemetery while the weather was overcast on the first day. It's a really interesting mix of styles & architecture; it doesn't really feel like a graveyard at all. Since then, the sun has come out, so time has been spent exploring, eating empanadas, drinking beer, and sitting in the street watching Boca Juniors narrowly losing the Copa Libertadores final with what felt like every single other inhabitant of BA.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/YfgjYrO.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/BgE2rvD.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/Kr15kAO.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/IxgbCay.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/8KNdFNG.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/n1ec1Qg.png", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/KnHuvov.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/Xn44H8P.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/YWj9y39.jpg", "caption": ""}
+    ],
+    "location": "buenos-aires",
+    "additionalContent": ""
   }
 ]
