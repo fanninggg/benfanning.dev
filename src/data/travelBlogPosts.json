@@ -226,5 +226,17 @@
     ],
     "location": "buenos-aires",
     "additionalContent": ""
+  },
+  {
+    "day": 30,
+    "title": "Palermo",
+    "description": "My last couple of days in Buneos Aires were spent mainly in Palermo, enjoying the parks in the sunshine as well as the great food and wine in the center, I would definitely come back to BA. A group of us went to something called the Argentina Experience, where you try some of BA's favorite dishes, as well as doing a cocktail, empanada, and maté course. I ended up winning the creative empanada folding contest with a 4-leaf clover (definitely intended it to be that shape from the beginning, not just a way to get four fillings into one empanada). I'm writing this from the airport, waiting for my flight up to Puerto Iguazu, where it's 30+°, to go see the falls.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/PnZcZSP.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/IrcorOa.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/AzxqB7O.jpg", "caption": ""}
+    ],
+    "location": "buenos-aires",
+    "additionalContent": ""
   }
 ]
