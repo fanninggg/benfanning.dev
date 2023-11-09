@@ -238,5 +238,23 @@
     ],
     "location": "buenos-aires",
     "additionalContent": ""
+  },
+  {
+    "day": 33,
+    "title": "Iguazu Falls",
+    "description": "Had a great couple of days in Iguazu. It was blisteringly hot so standing in the spray from the largest waterfall system in the world was a pretty great place to be, pretty spectacular too, I can defnitely see why it's one of the one of the world's new seven natural wonders. Also saw a load of cool wildlife I'd never seen before, in fact I'd never even heard of a coati or a nasua, I managed to snap a photo of a few of them but the capuchins were too quick for me. Thankfully we got off the ground early this morning before the thunderstorms began, so I'm back in BA now for a connecting flight to Mendoza.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/4w2fBbL.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/B6Kuy3e.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/JddhUu8.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/nyNJYpa.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/AotC8AA.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/6qTbIzl.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/2fyJpxG.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/ZP5bNzj.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/ON1rukE.png", "caption": ""}
+    ],
+    "location": "iguazu",
+    "additionalContent": ""
   }
 ]
