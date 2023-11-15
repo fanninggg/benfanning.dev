@@ -3,12 +3,13 @@ import { Modal, Carousel } from 'react-bootstrap';
 import determineFadeDirection from '../../lib/helpers/determineFadeDirection';
 
 export const BlogPost = (props) => {
-  const {day, title, description, images, location, additionalContent} = props.post
+  const {day, title, description, images, location, additionalContent, hasAltImage} = props.post
 
-  const [showModal, setShowModal] = useState(false);
+  const [useAltImage, setUseAltImage] = useState(false);
   const [selectedPhoto, setSelectedPhoto] = useState()
   const locationImages = require.context("../../images/locations", true);
-  let locationImage;
+  const altLocationImages = require.context("../../images/alt-locations", true);
+  let locationImage, altLocationImage;
 
   const renderImageCarousel = () => {
     const slides = images.map((image) => {
@@ -29,10 +30,18 @@ export const BlogPost = (props) => {
     )
   }
 
-  const handleClose = () => setShowModal(false);
+  const handleClose = () => setSelectedPhoto(undefined);
   const handleImageClick = (id) => {
     setSelectedPhoto(id)
-    setShowModal(true)
+  }
+
+  const handleGlobeClick = () => {
+    hasAltImage && setUseAltImage(!useAltImage)
+    transitionImage()
+  }
+
+  const transitionImage = () => {
+    document.getElementById('transition-overlay').classList.add('visible')
   }
 
   try {
@@ -40,12 +49,17 @@ export const BlogPost = (props) => {
   } catch (error) {
     locationImage = locationImages(`./${location}.gif`);
   }
+  // There is almost certainly a better way to handle this↕️.
+  try {
+    altLocationImage = altLocationImages(`./${location}.png`)
+  } catch (error) {}
   
   return (
     <div className="blog-post">
       <div className="blog-post-splash">
-        <div className="globe">
-          <img src={locationImage} alt="South America & Oceania" style={{width: "100%", height: "100%"}}/>
+        <div className={hasAltImage ? "globe clickable" : "globe"} onClick={() => handleGlobeClick()}>
+          <img src={useAltImage ? altLocationImage: locationImage} alt="South America & Oceania" style={{width: "100%", height: "100%"}}/>
+          <div id="transition-overlay"></div>
         </div>
         <div>
           <h2>{title}</h2>
@@ -67,7 +81,8 @@ export const BlogPost = (props) => {
 
       <p className="additionalContent">{additionalContent}</p>
 
-      <Modal show={showModal} onHide={handleClose} animation={false} className="portfolio-modal blog-post-modal">
+      {/* Modal display is dependent on a user selecting a photo to view */}
+      <Modal show={selectedPhoto} onHide={handleClose} animation={false} className="portfolio-modal blog-post-modal">
         <Modal.Body>
           {renderImageCarousel()}
           <svg className="close-btn blog-post-modal-close-btn" onClick={handleClose} width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">

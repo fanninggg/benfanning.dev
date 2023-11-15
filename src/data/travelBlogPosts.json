@@ -256,5 +256,26 @@
     ],
     "location": "iguazu",
     "additionalContent": ""
+  },
+  {
+    "day": 37,
+    "title": "Mendoza",
+    "description": "Sorry for the wait on an update but Mendoza was pretty action packed and I never really found the time to do this. It was definitely my favourite place that I've visited so far, so shoutout to all of you who recommended it. The Gorilla Hostel in Mendoza is amazing and I met so many great people there who made the horseback riding, cycle wine tours and hungover days in the pool so much fun. In fact it was really hard to leave for Bariloche, especially knowing that it was 30° in Mendoza and 3° in Bariloche, but a small crew of us from the Gorilla are now safely checked in to Penthouse 1004 in Bariloche so watch out for photos from there in a few days time.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/HBNzWDk.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/PLFfHeV.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/Y2q8auo.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/naixac7.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/UewZ6Bs.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/WfAFprs.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/Hge2VuE.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/9EAl6xL.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/9IaIgHS.jpg", "caption": ""},
+      {"id": 9, "src": "https://i.imgur.com/nswgOcd.jpg", "caption": ""},
+      {"id": 10, "src": "https://i.imgur.com/GN8U9Yy.jpg", "caption": ""},
+      {"id": 11, "src": "https://i.imgur.com/tBwf4ts.jpg", "caption": ""}
+    ],
+    "location": "mendoza",
+    "additionalContent": ""
   }
 ]
