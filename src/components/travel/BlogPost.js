@@ -7,9 +7,10 @@ export const BlogPost = (props) => {
 
   const [useAltImage, setUseAltImage] = useState(false);
   const [selectedPhoto, setSelectedPhoto] = useState()
+  
+  let locationImage, altLocationImage;
   const locationImages = require.context("../../images/locations", true);
   const altLocationImages = require.context("../../images/alt-locations", true);
-  let locationImage, altLocationImage;
 
   const renderImageCarousel = () => {
     const slides = images.map((image) => {
@@ -37,11 +38,6 @@ export const BlogPost = (props) => {
 
   const handleGlobeClick = () => {
     hasAltImage && setUseAltImage(!useAltImage)
-    transitionImage()
-  }
-
-  const transitionImage = () => {
-    document.getElementById('transition-overlay').classList.add('visible')
   }
 
   try {
@@ -59,7 +55,6 @@ export const BlogPost = (props) => {
       <div className="blog-post-splash">
         <div className={hasAltImage ? "globe clickable" : "globe"} onClick={() => handleGlobeClick()}>
           <img src={useAltImage ? altLocationImage: locationImage} alt="South America & Oceania" style={{width: "100%", height: "100%"}}/>
-          <div id="transition-overlay"></div>
         </div>
         <div>
           <h2>{title}</h2>

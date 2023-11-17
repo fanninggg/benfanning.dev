@@ -277,5 +277,23 @@
     ],
     "location": "mendoza",
     "additionalContent": ""
+  },
+  {
+    "day": 41,
+    "title": "Bariloche",
+    "description": "Four days in Bariloche flew by. The town is essentially a Swiss mountain village that has been dropped onto the Northern tip of Patagonia complete with chocolate shops, fondue restaurants and ski lifts. The weather here is pretty unpredictable and so is the scenery. The area around town seems to have parts of Nevada, Utah, California, Northern Scotland, New Zeland and of course Switzerland all stitched together. Continued below...",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/ZGKxPqr.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/wmn6Bcg.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/OkOCPf5.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/wFTluJ7.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/O5vwynu.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/LVDdx6L.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/xnXyO8H.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/o0RmB1V.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/yeArIty.jpg", "caption": ""}
+    ],
+    "location": "bariloche",
+    "additionalContent": "Yesterday 4 of us rented a car for the equiliviant of £6 each (with petrol) and did a 12 hour round trip through the seven lakes to San Martin which was an amazing drive with it's own rally special stage to get to some of the lakes. Once we got to San Martin the clouds parted for a while so we had time to do a little hike on the cliffs surrounding the town/lake and then we found a lovely little restaurant for some fresh smoked lake trout sorrentinos. I'm currently writing this on a 6 hour bus through the Andes to Puerto Montt in Chile so I can fly further south into the heart of Patagonia to hike some pointy mountains (and yes it's the most beautiful bus ride I've ever taken)."
   }
 ]
