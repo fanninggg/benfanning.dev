@@ -295,5 +295,20 @@
     ],
     "location": "bariloche",
     "additionalContent": "Yesterday 4 of us rented a car for the equiliviant of £6 each (with petrol) and did a 12 hour round trip through the seven lakes to San Martin which was an amazing drive with it's own rally special stage to get to some of the lakes. Once we got to San Martin the clouds parted for a while so we had time to do a little hike on the cliffs surrounding the town/lake and then we found a lovely little restaurant for some fresh smoked lake trout sorrentinos. I'm currently writing this on a 6 hour bus through the Andes to Puerto Montt in Chile so I can fly further south into the heart of Patagonia to hike some pointy mountains (and yes it's the most beautiful bus ride I've ever taken)."
+  },
+  {
+    "day": 42,
+    "title": "Puerto Montt",
+    "description": "Arrived in Puerto Montt after a long old bus from Bariloche. No complaints though, the bus was super comfortable; I had a spare seat next to me and the views were pretty sweet. I was only here for a night before my flight down to Puerto Natales and the gateway to Patagonia, as such all I did while here was get a haircut. It turns out my Spanish is not yet at “describe a haircut” level, as such I have lost about 60% of my hair and have a solid grade 0 over most of the back of my head, let's hope it's not cold in the Magallanes and Chilean Antarctica region. ⛄️",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/5gvTb2y.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/rBj9DTd.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/tWLplmA.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/Z6gTraN.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/M6ciSyO.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/D5wT9Qd.jpg", "caption": ""}
+    ],
+    "location": "puerto-montt",
+    "additionalContent": ""
   }
 ]
