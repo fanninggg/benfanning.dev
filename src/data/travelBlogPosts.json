@@ -242,7 +242,7 @@
   {
     "day": 33,
     "title": "Iguazu Falls",
-    "description": "Had a great couple of days in Iguazu. It was blisteringly hot so standing in the spray from the largest waterfall system in the world was a pretty great place to be, pretty spectacular too, I can defnitely see why it's one of the one of the world's new seven natural wonders. Also saw a load of cool wildlife I'd never seen before, in fact I'd never even heard of a coati or a nasua, I managed to snap a photo of a few of them but the capuchins were too quick for me. Thankfully we got off the ground early this morning before the thunderstorms began, so I'm back in BA now for a connecting flight to Mendoza.",
+    "description": "Had a great couple of days in Iguazu. It was blisteringly hot so standing in the spray from the largest waterfall system in the world was a pretty great place to be, pretty spectacular too, I can definitely see why it's one of the one of the world's new seven natural wonders. Also saw a load of cool wildlife I'd never seen before, in fact I'd never even heard of a coati or a nasua, I managed to snap a photo of a few of them but the capuchins were too quick for me. Thankfully we got off the ground early this morning before the thunderstorms began, so I'm back in BA now for a connecting flight to Mendoza.",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/4w2fBbL.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/B6Kuy3e.jpg", "caption": ""},
@@ -309,6 +309,24 @@
       {"id": 5, "src": "https://i.imgur.com/D5wT9Qd.jpg", "caption": ""}
     ],
     "location": "puerto-montt",
+    "additionalContent": ""
+  },
+  {
+    "day": 44,
+    "title": "Torres del Paine",
+    "description": "Spent a couple of days in Puerto Natales on my way back into Argentina. The town lies just south of the Torres del Paine national park and essentially acts as a staging ground for the famous 'W' & 'O' treks. I didn't have the spare days to do either of those unfortunately so instead I did a whirlwind driving tour around the park to see some of the most famous viewpoints, we were really lucky with the weather and the park itself was spectacular. The next stop is El Calafate to see the Perito Moreno glacier up close and then onto El Chalten for a few days of hiking in the mountains.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/K88h4Be.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/J6xDLsH.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/tmBaPKh.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/wRdIoHH.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/e92gopF.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/d6MfLmq.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/WVOlxgP.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/7cl1vsF.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/KZVBGi1.jpg", "caption": ""}
+    ],
+    "location": "puerto-natales",
     "additionalContent": ""
   }
 ]

@@ -6,7 +6,8 @@ export const BlogPost = (props) => {
   const {day, title, description, images, location, additionalContent, hasAltImage} = props.post
 
   const [useAltImage, setUseAltImage] = useState(false);
-  const [selectedPhoto, setSelectedPhoto] = useState()
+  const [selectedImage, setSelectedImage] = useState()
+  const [rotateImage, setRotateImage] = useState(false)
   
   let locationImage, altLocationImage;
   const locationImages = require.context("../../images/locations", true);
@@ -25,19 +26,22 @@ export const BlogPost = (props) => {
       )
     })
     return (
-      <Carousel defaultActiveIndex={selectedPhoto}>
+      <Carousel defaultActiveIndex={selectedImage}>
         {slides}
       </Carousel>
     )
   }
 
-  const handleClose = () => setSelectedPhoto(undefined);
+  const handleClose = () => setSelectedImage(undefined);
   const handleImageClick = (id) => {
-    setSelectedPhoto(id)
+    setSelectedImage(id)
   }
 
   const handleGlobeClick = () => {
+
     hasAltImage && setUseAltImage(!useAltImage)
+    setTimeout(() => {
+    }, 1000)
   }
 
   try {
@@ -77,7 +81,7 @@ export const BlogPost = (props) => {
       <p className="additionalContent">{additionalContent}</p>
 
       {/* Modal display is dependent on a user selecting a photo to view */}
-      <Modal show={selectedPhoto} onHide={handleClose} animation={false} className="portfolio-modal blog-post-modal">
+      <Modal show={selectedImage} onHide={handleClose} animation={false} className="portfolio-modal blog-post-modal">
         <Modal.Body>
           {renderImageCarousel()}
           <svg className="close-btn blog-post-modal-close-btn" onClick={handleClose} width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
