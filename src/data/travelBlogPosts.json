@@ -294,7 +294,7 @@
       {"id": 8, "src": "https://i.imgur.com/yeArIty.jpg", "caption": ""}
     ],
     "location": "bariloche",
-    "additionalContent": "Yesterday 4 of us rented a car for the equiliviant of £6 each (with petrol) and did a 12 hour round trip through the seven lakes to San Martin which was an amazing drive with it's own rally special stage to get to some of the lakes. Once we got to San Martin the clouds parted for a while so we had time to do a little hike on the cliffs surrounding the town/lake and then we found a lovely little restaurant for some fresh smoked lake trout sorrentinos. I'm currently writing this on a 6 hour bus through the Andes to Puerto Montt in Chile so I can fly further south into the heart of Patagonia to hike some pointy mountains (and yes it's the most beautiful bus ride I've ever taken)."
+    "additionalContent": "Yesterday 4 of us rented a car for the equiliviant of £6 each (with petrol) and did a 12 hour round trip through the seven lakes to San Martin which was an amazing drive with it's own rally special stage to get to some of the lakes. Once we got to San Martin the clouds parted for a while so we had time to do a little hike on the cliffs surrounding the town/lake and then we found a lovely little restaurant for some fresh smoked lake trout sorrentinos. I'm currently writing this on a 6 hour bus through the Andes to Puerto Montt in Chile so I can fly further south into the heart of Patagonia to hike some pointy mountains (and yes it's one of the most beautiful bus rides I've ever taken)."
   },
   {
     "day": 42,
@@ -327,6 +327,21 @@
       {"id": 8, "src": "https://i.imgur.com/KZVBGi1.jpg", "caption": ""}
     ],
     "location": "puerto-natales",
+    "additionalContent": ""
+  },
+  {
+    "day": 46,
+    "title": "El Calafate",
+    "description": "Awesome town. I assumed it would be a bit like Puerto Natales, just a staging ground for hiking, but it's a beautiful place in it's own right, ringed by mountains and lakes. The America del Sur is a great place to stay if you find yourself here as well, an amazing hostel with a great view over the surrounding scenery. A few of us got a bus to do a ~3 hour walk around the Perito Moreno glacier today, it's one of the few in the world that is expanding, which you can see in the form of shards breaking off as it grows accompanied by what sounds like bombs going off inside the glacier. Tomorrow we head to El Chalten for 4 days of hiking in some uncharacteristically congenial Patagonian weather. 😎",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/uMl21U0.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/XE5CfRN.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/UzeRFAH.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/oLZINPp.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/EMfe7Fn.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/ogQX7Tu.jpg", "caption": ""}
+    ],
+    "location": "el-calafate",
     "additionalContent": ""
   }
 ]
