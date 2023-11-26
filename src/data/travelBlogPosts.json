@@ -343,5 +343,23 @@
     ],
     "location": "el-calafate",
     "additionalContent": ""
+  },
+  {
+    "day": 49,
+    "title": "El Chalten",
+    "description": "Capital Nacional del Trekking, and for good reason. El Chalten is quinessential Patagonia, with rolling foothills and steeper forested sections giving way to soaring cathedrals of rock, whichever way you head out of town you find crazy views. We spent the first couple days hiring some gear and doing some warm up hikes around town, as well as enjoying the last chance to feast on cheap Argentinian steak and red wine. The sunsets here are unbelievable. The highlight the 4 days there was 100% the overnight hike to see Fitz Roy at sunrise but I'll make a seperate post for that once I get a hold of everyones photos.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/CD8IESx.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/GFduPBD.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/oKHMAWt.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/QuraEBS.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/n0ZNSnS.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/c5uR4Vd.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/LZIIEbY.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/xxhd5dl.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/WZcgiJb.jpg", "caption": ""}
+    ],
+    "location": "el-calafate",
+    "additionalContent": ""
   }
 ]
