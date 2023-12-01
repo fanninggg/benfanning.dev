@@ -5,7 +5,7 @@ import testimonials from '../../data/testimonials.json'
 
 export const Testimonials = () => {
   const {clients, students, colleagues} = testimonials
-  const [group, setGroup] = useState('clients');
+  const [group, setGroup] = useState('colleagues');
   
   const handleGroupChange = (group) => {
     setGroup(group);
@@ -48,16 +48,16 @@ export const Testimonials = () => {
       <div className="testimonials-dropdown" onClick={(e) => handleDropdownToggle(e)}>
         <p>{group[0].toUpperCase() + group.substring(1)} <DownSVG /></p>
         <div className="testimonials-dropdown-content d-none">
+          <p onClick={() => handleGroupChange('colleagues')}>Colleagues</p>
           <p onClick={() => handleGroupChange('clients')}>Clients</p>
           <p onClick={() => handleGroupChange('students')}>Students</p>
-          <p onClick={() => handleGroupChange('colleagues')}>Colleagues</p>
         </div>
       </div>
       <div className="testimonials-carousel-holder">
         {/* TODO: passing variable and then string of variable name is grim */}
+        {renderTestimonials(colleagues, 'colleagues')}
         {renderTestimonials(clients, 'clients')}
         {renderTestimonials(students, 'students')}
-        {renderTestimonials(colleagues, 'colleagues')}
       </div>
     </div>
   )
