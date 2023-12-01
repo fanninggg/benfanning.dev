@@ -391,5 +391,20 @@
     ],
     "location": "el-calafate",
     "additionalContent": "After we had found a suitably beautiful spot away from the campsite we went back to the tents to enjoy some cold wine (out of washed out yoghurt cups), cheese and meats alongside our ever present feathered friend who we affectionately named a Cheagle (Chicken-Eagle). Later that night we wrapped up warm and, red wine in hand, returned to our selcuded little beach to watch the sun set over this amazing corner of Patagonia. We woke up at 3:45 to scramble up the last few kms to Laguna de Los Tres and settled down to watch the sun rise over Fitz Roy. It was cold, windy and beautiful. Then the weather did that Patagonia thing where it changes instantly and we were blown back down the mountains to pack up our tents, say our sad goodbyes and and head back to town. The next stop is Santiago which means ~12 hours of buses and ~6 hours of planes, woohoo!"
+  },
+  {
+    "day": 53,
+    "title": "Santiago",
+    "description": "After saying goodbye to the mountains for a while it was time to head North, so I jumped on a bus to El Calafate & then on to Puerto Natales to have a last supper with the remaininng members of our Fitz Roy crew. The next day I caught a plane to Puerto Montt & then on to Santiago for 2 day pitstop. The city is massive so it's hard to get a real feel for it but the parts I have visited have been really nice, I espeically liked the arttisan village in Los Dominicos, which is a collection of 140 traditional and contemporary Chilean craft workshops. Where you can find all sorts of Mapuche & Chiloe art as well as hand made clothing, jewelery, pottery, copperwork, & traditional costumes (as well as excellent ceviche & pisco sours). Next stop is the Atacama for stargazing & the salt flats. ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/QwfNeeG.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/8ksJMyh.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/2pOjJsI.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/onaaIpB.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/C8at47i.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/IUXJKB1.jpg", "caption": ""}
+    ],
+    "location": "santiago1",
+    "additionalContent": ""
   }
 ]
