@@ -426,7 +426,7 @@
     "additionalContent": "Gentle strolls around the Bolivian lagunas at 16,000 feet felt like a real effort and we were all feeling the strain after a while; however a dip in the hot springs, some lunch and a few ibuprofen for the altitude headaches soon sorted us out. Later that day, 13 hours after setting out, and in dire need of a good stretch, we reached our hostel for the night which was exactly as luxurious as a you might imagine a budget hostel in the middle of the Atacama desert to be. But the bedrooms and the food were warm so I counted myself lucky. Tomorrow we cross over into the Altiplano and make our way towards the salt flats."
   },
   {
-    "day": 57,
+    "day": 58,
     "title": "Salt Flats",
     "description": "After the first day we had acclimatised to the altitude so no more headaches & less shortness of breath. Our first stop was just an hour down the road and gave us a chance to act like kids and scale some interstingly shaped rocks. See if you can guess what the first three rocks below are meant to be. The next stop was an area I named the Hidden Valley of the Llamas. After not seeing anything approaching a trickle of fresh water for a few days we came to an amazing series of valleys with streams and fresh water lagoons running through them and the first grass/moss/green stuff we'd seen. As the name suggests it was packed with llamas, giant chinchilla looking things as well as a whole host of other creatures great and small. Continued below...",
     "images": [
@@ -456,9 +456,28 @@
     "additionalContent": "After that we headed for the Ananaconda Canyon (named for the winding river) and found the clouds lit up with rainbow colours, which made for a great photo op for us & Samuel. Then it was finally time to head for the Salt Flats with one quick stop at the first bar we'd seen in days for some beers brewed with all sorts of novel ingredients (coca leaves & cactus were favourites). We spent the night in a hotel where the walls were made from salt and the showers were blissfully warm before a 4am wakeup to watch the sun rise over the salt flats. Next we drove across the flats to Isla de Incahuasi to see the cacti and have some breakfast, then it was time to take the customary forced perspective shots on the flats. The last stop before heading back to San Pedro & the flight to Santiago was Uyuni itself to see the train graveyard and have some lunch (veggie soup & grilled llama is now a firm favourite lunchtime combo). As with all these sorts of trips the people you spend it with play a massive part and I was yet again lucky to find a great group of people to spend 4 days crammed inside a Land Cruiser with, so shoutout to any of Samuel's Salt Squad if your reading this! I'm currently in an airport hotel before the flight to NZ at midnight, so this is the end of the South American chapter & the next post will be from Auckland! See you there 🇳🇿!"
   },
   {
+    "day": 62,
+    "title": "Auckland",
+    "description": "After a night in Santiago enjoying pisco sours and the hotel sauna & pool I jumped on my midnight flight to NZ. The flight wasn't too bad and I arrived in Auckland at 5am, 13 hours after taking off. Unfortunately I couldn't check into my hostel until 3pm so I spent the day scooting around town seeing some of the sites (including a practically deserted museum). At 3pm I realised I didn't understand time zones as I had actually booked the hostel for the day before so I would have been well within my rights to check in anyway. Regardless, after unpacking I promptly fell asleep for 7 hours, waking up at 1am and supremely fucking up my body clock. Thankfully the hostel bar sells espresso martinis.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/4gAmtho.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/Syh7w4Z.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/FMOqXHV.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/knjrCC4.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/vQDRJEM.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/DSVVPSb.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/41cUZWX.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/VEVatRr.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/kkWveZO.jpg", "caption": ""}
+    ],
+    "location": "auckland",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
     "day": 66,
     "title": "The Shire",
-    "description": "Day one of the roadtrip! [Hint, you can click the globe to zoom in while I'm in NZ]. The first stop after picking up the campervan in Auckland was a visit to the Hobbiton movie set, I was actually kind of blown away by how beautiful and real it all is, I expected it to feel like a filmset but it really doesn't. They've built out full hobbit holes either side of Sam's hole and the detail is amazing, you can see me sitting in grandpa Proudfoot's chair below. After a quick pie & a brew at the Green Dragon I hit the road and headed for Lake Arapuni, finding the campsite all but deserted I got a cassoulet on the cooker and broke out a beer. This morning I took a dip in the lake and am now heading South.",
+    "description": "Roadtrip Day 1! [Hint, you can click the globe to zoom in while I'm in NZ]. The first stop after picking up the campervan was a visit to the Hobbiton movie set, I was actually kind of blown away by how beautiful and real it all is, I expected it to feel like a filmset but it really doesn't. They've built and furnished 2 complete hobbit holes either side of the Gamgee residence and the detail is amazing, you can see me sitting in grandpa Proudfoot's chair below. After a quick pie & a brew at the Green Dragon I hit the road and headed for Lake Arapuni, finding the campsite all but deserted I got a cassoulet on the cooker and broke out a beer. This morning I took a dip in the lake (photo evidence included) and am now heading for the Forgotten World Highway.",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/Ghy5Sgr.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/YNiNBFR.jpg", "caption": ""},
@@ -473,6 +492,22 @@
     "location": "shire",
     "hasAltImage": true,
     "additionalContent": ""
+  },
+  {
+    "day": 67,
+    "title": "Forgotten World",
+    "description": "Roadtrip Day 2. I am genuinely surprised that New Zealand doesn't have the highest rate of road fatalities in the world. Not because of the drivers or the road quality, but because it is completely impossible to keep your eyes on the road. Today I drove for about 4 hours from Pureora to Whanganui, mainly along the Forgotten World Highway and I almost crashed about 3 times because I was staring at the amazing views. In those 4 hours I drove through Dartmoor; then the foothills of Switzerland, the jungles of Hawaii and finally arrived in Cornwall. The scenery was just obscene and I was one of the only people on the road to enjoy it. Unfortunately my GoPro is refusing to turn on so no pictures from the drive. I also learned a couple of things. Continued below... ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/elFbhog.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/bSriprD.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/gIWA946.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/w84vJhG.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/0zVPsMz.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/S1mYk5E.jpg", "caption": ""}
+    ],
+    "location": "forgotten-world",
+    "hasAltImage": true,
+    "additionalContent": "Attention: If you are my mum, this is a good point to stop reading. The first thing I learned is that a road being classed as a state highway in NZ is no guarentee of a smooth or even a paved surface. The second thing I learned is that my campervan has no traction control or ABS. The third thing I learned is that fitting a massive water tank, a fridge and all the electrical setup in the very back of a Toyota Estima makes it very tail happy on gravel and other loose surfaces. Combine all this with the fact that the car gives a panicked beep when it detects that it's going sideways and you have a fantasic rallycross game. I genuinely don't think I've laughed or smiled while driving a vehichle as much as I did today, although the roads down some of the gorges did make me shit myself. Regardless I lived to tell the tale and to find a tiny little out of the way campground (again deserted) which had an awesome natural amphitheate about an hours hike upriver. This place has hot showers but I still might try the river first tomorrow, something about a cold water swim in nature really sets you up well for the day. After that I'll be back on the rally circuit for a while as I head West towards The Surf Highway and hopefully some sunshine."
   }
 
 ]
