@@ -7,7 +7,6 @@ export const BlogPost = (props) => {
 
   const [useAltImage, setUseAltImage] = useState(false);
   const [selectedImage, setSelectedImage] = useState()
-  const [rotateImage, setRotateImage] = useState(false)
   
   let locationImage, altLocationImage;
   const locationImages = require.context("../../images/locations", true);
