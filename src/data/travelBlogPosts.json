@@ -537,6 +537,22 @@
     "location": "tararua",
     "hasAltImage": true,
     "additionalContent": ""
+  },
+  {
+    "day": 70,
+    "title": "Wellington",
+    "description": "Roadtrip Day 5. Up early today in order to get down to Wellington in time to meet up with a couple of old friends, in fact both former roommates of mine. Hard to believe that it's been 6 years since we've seen each other, it felt like no time at all and it was amazing to sit and laugh with them again at brunch just like we used to do at Tooloulous in Banff. Later that day I crossed Oriental Bay and headed for the Wainuiomata Coast. I clearly didn't learn my lesson about unpredictable weather and hiking beacuse I got caught out and thoroughly drenched in a storm halfway through a 3 hour hike. Thankfully the place I was staying had hot showers, and again was completely deserted, it's like I'm the only one who finds any of these places, kind of strange but no complaints.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/PDBHelU.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/YSW6zGP.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/CDHuV9b.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/ANC91m9.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/7qDP4iT.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/bC1BPUL.jpg", "caption": ""}
+    ],
+    "location": "wellington",
+    "hasAltImage": true,
+    "additionalContent": ""
   }
 
 ]
