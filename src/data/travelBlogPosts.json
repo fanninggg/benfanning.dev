@@ -508,6 +508,35 @@
     "location": "forgotten-world",
     "hasAltImage": true,
     "additionalContent": "Attention: If you are my mum, this is a good point to stop reading. The first thing I learned is that a road being classed as a state highway in NZ is no guarentee of a smooth or even a paved surface. The second thing I learned is that my campervan has no traction control or ABS. The third thing I learned is that fitting a massive water tank, a fridge and all the electrical setup in the very back of a Toyota Estima makes it very tail happy on gravel and other loose surfaces. Combine all this with the fact that the car gives a panicked beep when it detects that it's going sideways and you have a fantasic rallycross game. I genuinely don't think I've laughed or smiled while driving a vehichle as much as I did today, although the roads down some of the gorges did make me shit myself. Regardless I lived to tell the tale and to find a tiny little out of the way campground (again deserted) which had an awesome natural amphitheate about an hours hike upriver. This place has hot showers but I still might try the river first tomorrow, something about a cold water swim in nature really sets you up well for the day. After that I'll be back on the rally circuit for a while as I head West towards The Surf Highway and hopefully some sunshine."
+  },
+  {
+    "day": 68,
+    "title": "Surf Highway",
+    "description": "Roadtrip Day 3. Pretty slow and relaxed day. I headed West towards New Plymouth, stopping to take a couple of snaps of Mt. Taranaki on the way which looks like a slightly more rugged version of Mt. Fuji. Once I got to the coast I found the tallest thing I could to climb (monkey brain) and took in the view. After a surpringly steep clamber up Mount Moturoa I jumped back in the van and headed down the coast to grab some lunch at a vineyard on the ocean (great view and great seafood) and then continued down the Surf Highway to Ōpunake where I was able to enjoy some rare sunshine with a beer before the sun went down. ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/dnqbB5O.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/rjqDSeB.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/tOd37DD.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/rnIeQAe.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/PgdUT2R.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/3zErsqw.jpg", "caption": ""}
+    ],
+    "location": "surf-highway",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 69,
+    "title": "Tararua",
+    "description": "Roadtrip Day 4. I was up before the sun today for a morning dip in the ocean and some breakfast before I got on the road heading East away from the Taranaki peninsula and towards Tararua Forest Park. After a quick stop for supplies and to do some laundry in Palmerston North I made it to Holdsworth Lodge at the foot of the park and got set up. As I'd made the trip in such good time and the sun was shining I decided to go on one of the longer hikes that start from the lodge. Unfortunately the peaks in the park are pretty much perpetually wreathed in cloud so I didn't stay dry for long and after a couple hours the higher ground became a bog so I bravely turned around in favour of a dip in the river, fajitas and some Pinot Grigio from the vineyard I visted the day before.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/vuSc8Ba.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/a1utzbx.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/PWnO2do.jpg", "caption": ""}
+    ],
+    "location": "tararua",
+    "hasAltImage": true,
+    "additionalContent": ""
   }
 
 ]
