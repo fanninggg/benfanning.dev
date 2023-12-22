@@ -541,7 +541,7 @@
   {
     "day": 70,
     "title": "Wellington",
-    "description": "Roadtrip Day 5. Up early today in order to get down to Wellington in time to meet up with a couple of old friends, in fact both former roommates of mine. Hard to believe that it's been 6 years since we've seen each other, it felt like no time at all and it was amazing to sit and laugh with them again at brunch just like we used to do at Tooloulous in Banff. Later that day I crossed Oriental Bay and headed for the Wainuiomata Coast. I clearly didn't learn my lesson about unpredictable weather and hiking beacuse I got caught out and thoroughly drenched in a storm halfway through a 3 hour hike. Thankfully the place I was staying had hot showers, and again was completely deserted, it's like I'm the only one who finds any of these places, kind of strange but no complaints.",
+    "description": "Roadtrip Day 5. Up early today in order to get down to Wellington in time to meet up with a couple of old friends, in fact both former roommates of mine. Hard to believe that it's been 6 years since we've seen each other, it felt like no time at all and it was amazing to sit and laugh with them again at brunch just like we used to do at Tooloulous in Banff. Later that day I crossed Oriental Bay and headed for the Wainuiomata Coast. I clearly didn't learn my lesson about unpredictable weather and hiking because I got caught out and thoroughly drenched in a storm halfway through a 3 hour hike. Thankfully the place I was staying had hot showers, and again was completely deserted, it's like I'm the only one who finds any of these places, kind of strange but no complaints.",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/PDBHelU.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/YSW6zGP.jpg", "caption": ""},
@@ -551,6 +551,73 @@
       {"id": 5, "src": "https://i.imgur.com/bC1BPUL.jpg", "caption": ""}
     ],
     "location": "wellington",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 71,
+    "title": "Pohangina",
+    "description": "Roadtrip Day 6. From down on the south coast I headed up towards the center of the north island via the Tararua mountain pass & the aptly named Manawatū Scenic Route. My plan of avoiding all the highways has been working out beautifully so far as the scenery has been amazing. Some of the supposedly two lane tracks through the gorges have been a touch hairy but for the most part you never see anyone else using them (I probably wouldn't either if I was in my own car and had to pay to repair my suspension every few weeks). I stayed in the little community of Pohangina, again I was the only person in residence at the campsite, aside from a thousnad kiwi's in the surrounding woods and a few sheep across the other side of the valley.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/viOovll.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/9e4VA9r.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/Keewb3Q.jpg", "caption": ""}
+    ],
+    "location": "pohangina",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 72,
+    "title": "Napier",
+    "description": "Roadtrip Day 7. Today was a long old drive back on the Manawatū Scenic Route across a forest covered mountain range known as the Ruahine. Eventually I arrived in Napier for a fuel stop and to resupply the fridge. After exploring around the town for a while I headed up to Waipātiki beach on the recommendation of a girl in the coffee shop I visited. It was a lovely place but the weather was closing in and threatening to rain so I decided to skip the swim and head straight for Lake Tutira where I set up for the night after a hike which got cut short due to me completely losing the trail in the rolling fog & cloud at the top of the surrounding hills (see the photo that looks like Dartmoor). The next morning woke with a perfect blue sky and a mirror lake which I ruined with my morning swim before I headed North towards more lakes and away from any sort of civilization.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/laFW48A.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/DPNqwpM.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/y7hIMSn.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/D660kEy.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/5sICKhW.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/Gx4GcWO.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/A0g42RZ.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/JCK4gSr.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/tb0N9mx.jpg", "caption": ""}
+    ],
+    "location": "napier",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 73,
+    "title": "Waikaremoana",
+    "description": "Roadtrip Day 8. Probably my favourite place so far in NZ. Getting here is a bit of an effort. The only road to the lake is about 3 hours and only about 10% of it is paved, as such that means hardly anyone makes the journey and as a result there wasd only one other car in sight when I bounced and slid my way down to the lakeside. As you can see below the weather and the water were perfect, it even had a little island to swim out to (once the black swans were ousted). The occupants of the other car turned out to be a young Aussie bloke and his two little lads who were really good craic and apparently very adept at fishing. So after I'd built a fire with some of the driftwood around the shore we had fresh trout and a few beers to round out a pretty perfect road trip day. I kicked off the next day with a sunset swim out to Fanning Island (formally Black Swan Isle) and then hit the road heading for the Bay of Plenty.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/mTay9CF.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/AZaVoDm.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/n78Y0Yk.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/YkfEB45.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/v7iqnFk.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/XPiQf04.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/aWRXk6d.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/DzQAvGx.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/Dnxr9iK.jpg", "caption": ""},
+      {"id": 9, "src": "https://i.imgur.com/1zLmHqm.jpg", "caption": ""},
+      {"id": 10, "src": "https://i.imgur.com/7jKVM3c.jpg", "caption": ""},
+      {"id": 11, "src": "https://i.imgur.com/ITEM0qU.jpg", "caption": ""}
+    ],
+    "location": "waikaremoana",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 74,
+    "title": "Tauranga",
+    "description": "Roadtrip Day 9. After a couple hours back on the rally circuits from Lake Waikaremoana it was on to Rotorua, a town renowned for it's geothermal activity and maori culture, I didn't take too many pics today for whatever reason, after Waikaremoana the lake seemed a bit tame. As a result I decided to catry on North to the city of Tauranga just south of the Coromandel peninsula. I spent the night in a suburb called Mount Maunganui, named for the towering volcano at the end of the beach. It's a beautiful spot full of great bars and restaurants, the place I stayed was right on the beach with a pool and thermal bath next door. Tomorrow's plan is to hike the volcano and catch some waves 🏄‍♂️.  ",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/txZakOr.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/iHcGVF1.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/4ACHdbr.jpg", "caption": ""}
+    ],
+    "location": "tauranga",
     "hasAltImage": true,
     "additionalContent": ""
   }
