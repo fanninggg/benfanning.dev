@@ -773,5 +773,53 @@
     "location": "cape-farewell",
     "hasAltImage": true,
     "additionalContent": ""
+  },
+  {
+    "day": 91,
+    "title": "Nelson",
+    "description": "The last couple of days have essentially just been me checking the weather and running from place to place in a bid to find some sunshine, but I wasn't particularly successful at first. I drove  250+ km across the top of the island to Picton because it wasn't due to rain there but arrived to an absolute deluge. The next day the weather started to improve and I came back the way I’d come to spend the day in Nelson. I decided to make the most of that and found a place to stay near the beach with a little swimming pool just outside the city in an area called Ruby Bay.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/uLhHsPR.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/dL4bHRC.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/T5sAz6l.jpg", "caption": ""}
+    ],
+    "location": "nelson",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 92,
+    "title": "St. Arnaud",
+    "description": "The penultimate day of the road trip. I needed to make my way down towards Christchurch and found a little town on the road south called St. Arnaud, which is situated right on the edge of Lake Rotoiti. I arrived early in the bright sunshine and grabbed a nice spot by the lake. Then went for a hike up one of the nearby mountains to take the pictures below. After a sweaty few hours of hiking in the sun I cooled off in the lake with a beer and then I spent the evening cooking and drinking everything I had left in the fridge while trying to avoid being eaten alive by sand flies.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/G788l2F.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/IMshKZ8.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/BRwTtfE.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/bqZq5JU.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/24CBYDb.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/M7kpcvY.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/30ZtPng.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/zSi955t.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/ZFuMQuh.jpg", "caption": ""}
+    ],
+    "location": "st-arnaud",
+    "hasAltImage": true,
+    "additionalContent": ""
+  },
+  {
+    "day": 93,
+    "title": "Hammer Springs",
+    "description": "Last day on the road trip, bittersweet. Sad to be giving up the van and the freedom it's given me when exploring this amazing little country but equally I am quite excited by the prospect of clean tap water, a shower whenever I want one and Wi-Fi whenever I want it. It was a long old drive back to Christchurch from St. Arnaud so I did a couple hundred kilometres through the Lewis Pass before stopping for lunch near Hanmer Springs. Any other time I would have been tempted by a dip in the hot springs but seeing as it was about 30° I gave it a miss and got on my way after lunch to get the van dropped back in time. \n And thus ends the NZ road trip. 26 days and 6,000kms later, it’s been great and I’m really glad I did it this way, getting away from everything (including phone signal most of the time). Some of my favourite places have been away from the cities and the tourist attractions, the small towns and villages, the gravel mountain passes, the deserted lakes and valleys. There was one road sign I passed early on which really made me smile and set the tone for the trip: “Welcome to Tahora. You’re lost.” I really liked being lost.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/xrvgBmO.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/NRmJiaG.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/R9Jey4x.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/xMVp4gT.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/JBTkga3.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/E4Fetwn.jpg", "caption": ""}
+    ],
+    "location": "hammer-springs",
+    "hasAltImage": true,
+    "additionalContent": ""
   }
 ]
