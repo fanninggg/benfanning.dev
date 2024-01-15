@@ -821,5 +821,25 @@
     "location": "hammer-springs",
     "hasAltImage": true,
     "additionalContent": ""
+  },
+  {
+    "day": 100,
+    "title": "Christchurch",
+    "description": "I spent the last week in Christchurch getting back into the swing of normal traveller things after so long on the road. For reference, by normal traveller things I mean talking to other human beings, taking trips to the beach and drinking as if I turn 20 this year instead of 30. I am happy to report I am now back in the swing of travelling and I'm ready to head to Sydney and enjoy life down under for a while. Side note: I have found that the Americans & the Swiss are generally unaware of the baby guiness. I have proselytized a good portion of the ones in Christchurch now though, so hopefully they will continue to spread the good news back in their native lands.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/8ndTgDF.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/AphzHJ7.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/182i6a7.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/5N7bju8.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/SK5OwK4.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/F7B8qKh.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/6CiSEDb.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/TNgnwbY.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/TjFX7Rp.jpg", "caption": ""}
+    ],
+    "location": "christchurch",
+    "hasAltImage": true,
+    "additionalContent": ""
   }
 ]
+ 
