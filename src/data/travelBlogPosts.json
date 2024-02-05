@@ -840,6 +840,39 @@
     "location": "christchurch",
     "hasAltImage": true,
     "additionalContent": ""
+  },
+  {
+    "day": 105,
+    "title": "Sydney",
+    "description": "I'm writing this one about 3 weeks after the fact because my laptop decided it also needed some time off to travel. Can't blame it I suppose, after 9 years of heavy use it's been zapped with power cuts and surges in Rio, rained on in Patagonia and now roasted in Australia. Anyway my few days in the Sydney CBD were good, no better no worse. The weather was lovely, the city was beautiful and the hostel was fine but I never really ended up meeting the right group of people and I've come to realise that that is what really makes travel enjoyable, being able to share those amazing places with other people. Thankfully Bondi was a whole different story...",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/TAynOJq.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/wXiRWtm.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/hwait1c.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/nIXWeXc.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/pa9kO6b.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/6RqxiAI.jpg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/L8NrGXO.jpg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/pdjdUiC.jpg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/pNc3img.jpg", "caption": ""}
+    ],
+    "location": "sydney",
+    "additionalContent": ""
+  },
+  {
+    "day": 110,
+    "title": "Bondi Beach",
+    "description": "In Bondi I met probably the best gang of people I've hung out with since I was in Mendoza in Argentina (pictured below). We just got really lucky to all be in the same room at WakeUp in Bondi, which was a great hostel literally across the road from the beach. We spent the days surfing on the beach, walking to Coogee, or just relaxing on the rooftop at the hostel. We spent the nights pretending to be 18, drinking on the beach and dancing in the streets once the clubs closed. Really a pretty perfect week as far as travelling goes, the best bit was a few of us were all heading roughly the same way so we've been hanging out from Byron Bay to Noosa, I'll add Byron Bay & Surfers Paradise updates in the coming days now my laptop has done a Lazarus.",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/pqI41xA.jpg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/kz3qhdc.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/3j2Ufm4.jpg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/vrxTqbj.jpg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/q8a8hby.jpg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/xINYBTo.jpg", "caption": ""}
+    ],
+    "location": "sydney",
+    "additionalContent": ""
   }
 ]
  

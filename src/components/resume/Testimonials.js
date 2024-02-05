@@ -18,7 +18,7 @@ export const Testimonials = () => {
   const handleDropdownToggle = (e) => {
     e.currentTarget.querySelector('.testimonials-dropdown-content').classList.toggle('d-none')
   }
-  
+
   const renderTestimonials = (items, name) => {
     if (items.length > 0) {
       const testimonials = items.map((testimonial) => {
