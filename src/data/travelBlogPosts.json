@@ -844,7 +844,7 @@
   {
     "day": 105,
     "title": "Sydney",
-    "description": "I'm writing this one about 3 weeks after the fact because my laptop decided it also needed some time off to travel. Can't blame it I suppose, after 9 years of heavy use it's been zapped with power cuts and surges in Rio, rained on in Patagonia and now roasted in Australia. Anyway my few days in the Sydney CBD were good, no better no worse. The weather was lovely, the city was beautiful and the hostel was fine but I never really ended up meeting the right group of people and I've come to realise that that is what really makes travel enjoyable, being able to share those amazing places with other people. Thankfully Bondi was a whole different story...",
+    "description": "I'm writing this one about 3 weeks after the fact because my laptop decided it also needed some time off to travel. Can't blame it I suppose, after 9 years of heavy use it's been zapped with power cuts and surges in Rio, rained on in Patagonia and now roasted in Australia, amazed it came back to life honestly. Anyway my few days in the Sydney CBD were good, no better no worse. The weather was lovely, the city was beautiful and the hostel was fine but I never really ended up meeting the right group of people and I've come to realise that that is what really makes travel enjoyable, being able to share those amazing places with other people. Thankfully Bondi was a whole different story...",
     "images": [
       {"id": 0, "src": "https://i.imgur.com/TAynOJq.jpg", "caption": ""},
       {"id": 1, "src": "https://i.imgur.com/wXiRWtm.jpg", "caption": ""},
@@ -873,6 +873,108 @@
     ],
     "location": "sydney",
     "additionalContent": ""
+  },
+  {
+    "day": 115,
+    "title": "Byron Bay",
+    "description": "From one infamous surf spot to another. I stayed in a place about 15 minutes walk along the beach from Byron proper, great hostel with a pool, a bar and free surfboard hire. In other words, a perfect hostel. One of the girls from Bondi was staying there as well and another one was staying at another hostel in town so having instant friends in a new town is always nice. Met a few more people and had a great few days, a lot of laying by the pool taking advantage of daily drinks specials, a lot of singing and dancing at the piano bar in the Northern Hotel in town and an embarrassingly low amount of surfing was done. I've do have to say, a 15 minute moonlit stroll down an empty beach and a dip in the almost certainly shark infested waves is a great way to end any night. Next stop, Surfers Paradise",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/rkfIxa9.jpeg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/kKJRQGB.jpeg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/ji6hXkX.jpeg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/HiQSsK2.jpeg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/m6NjnzN.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/78CapCA.jpeg", "caption": ""}
+    ],
+    "location": "byron-bay",
+    "additionalContent": ""
+  },
+  {
+    "day": 120,
+    "title": "Surfers Paradise",
+    "description": "This place is great, it's badly named, but it's great. The easiest way to describe it is as if someone dropped Miami onto the East coast of Australia, think waterfront mansions, marinas clogged with yachts, miles of sundrenched beach and lots of parties. I stayed at a place called Budds which was a really social little place where I met a great group of people to surf, drink and generally mess about with. The reason I say the town is poorly named is that the waves were super erratic which made surfing very difficult and pretty unrewarding even when you did catch a wave, as such a solid proportion of our time during the days was spent in or around the hostel pool, but when it's 30° everyday, what else would you want to do?",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/0LY1Eex.jpeg", "caption": ""},
+      {"id": 1, "src": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/54000/54617-Skypoint-Observation-Deck.jpg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/VEm2Gws.jpeg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/5LflaGr.jpeg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/O4usM1H.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/vIP68C4.jpeg", "caption": ""}
+    ],
+    "location": "surfers-paradise",
+    "additionalContent": ""
+  },
+  {
+    "day": 125,
+    "title": "Noosa",
+    "description": "After Surfer's I decided to rent a car and drive up the Sunhsine Coast to Noosa. En route I stopped in Brisbane for lunch with a couple of freinds and they joined me for the rest of the drive North. I stayed the first night a few miles south of Noosa in a little seaside town called Mooloolaba where I ran into a couple of Swedish girls I'd met in Surfer's Paradise, we decided to beat the (30+) heat by visiting some waterfalls up in the mountains. The next day I headed to a hostel called Kangarooms in the Noosa everglades national park which meant lots of furry, bouncy neighbours roaming the grounds and lots of scaly, snappy neighbours stopping us from swimming in the lakes. Continued below...",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/GenvfOF.jpeg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/qbT7qpP.jpeg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/cHNg59k.jpeg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/gE2MGRI.jpeg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/A7JeCXX.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/2kWV8oi.jpeg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/WJRFMHD.jpeg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/8cLRNUe.jpeg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/PnSBbcy.jpeg", "caption": ""}
+    ],
+    "location": "noosa",
+    "additionalContent": "The next day I finally made it to Noosa proper, checking in to a hostel in town called Bounce which had a great bar, a great pool & my two road trip freinds staying the night as well. Probably the highlight of Noosa for me was the coastal walk to the fairy pools (pictured above), a really beautiful stroll along some amazing beaches and forest, and who should I find relaxing in the Fairy Pools but my Swedish friends."
+  },
+  {
+    "day": 130,
+    "title": "Whitsundays Day 1",
+    "description": "After 5 days in Noosa I drove down to Brisbane and jumped on a flight up to Propserine and then a bus to Airlie Beach, the self proclaimed Heart of the Reef. It was an early start the next day so I got my first early night in what felt like 4 months; the next morning I went down to the harbour to meet the people I'd be spending the next 3 days sailing around the Whitsundays with. As I've said before, the people you are with is/are what really makes or breaks a trip, so I was very lucky to be with a great group who got on well, had a lot of laughs and who, one day later, I already miss hanging out with. Continued below...",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/GYijqb3.jpeg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/BW644Ir.jpeg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/eeoPl99.jpeg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/ErS34wJ.jpeg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/XZnwV0g.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/N4YnmK9.jpeg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/hUvpMD1.jpeg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/o3rLbGM.jpeg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/YoKXHPV.jpeg", "caption": ""}
+    ],
+    "location": "whitsundays",
+    "additionalContent": "After meeting everyone else on the trip, day one on the boat started with meeting our 3 man crew (absolute legends) and running through the do's and dont's of boat life. Then we were out into Whitsunday Passage heading for Hook Island. Once the sails went up and we were relaxing on the side out the boat as it skimmed across the waves with a beer in hand I realised I'd made an excellent decision. After an hour of sailing we reached our first snorkle spot at Cockatoo Point where I really wished my GoPro still worked as the number and colours of the fish and coral reef were way better than I had expected, we even saw a turtle on our first dive! After some lunch we headed to Blue Pearl Bay on Hayman Island for some more snorkelling before stocking up on drinks and heading over to a cliff on the island to watch the sunset. Once the beers were cracked and the sky lit up orange the dolphins decided to come up and watch the sunset as well which made for one of the more scenic evenings of my life. After that we settled down for a delicious dinner back on board, followed by some wine, music and drinking games to get to know each other better. Since the forecast was good and the night was warm a couple of us decided to sleep on deck in the hammocks, with the only light coming from the starts and the only sound being the splashing of the giant trevally feeding around the boat."
+  },
+  {
+    "day": 131,
+    "title": "Whitsundays Day 2",
+    "description": "Day 2 started early, waking up with the sunrise in a hammock looking out across the clear waters surrounding Hayman Island is a great way to start any day. After breakfast the winds picked up and we went for a proper sail out East into the open sea, our floating home Broomstick was an ex-racing boat so with the sails up and a good wind she really moves, I think some of us enjoyed the big waves and high speeds more than others but by the time we made it to Cataran Bay we were all happy to be throwing ourselves into the water rather than the water throwing itself over the side into us. The snorkelling wasn't as good as the first day, the winds and a bit of rain had churned up the sediment so the visibility wasn't great. Continued below...",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/IakL78b.jpeg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/qfxExHk.jpeg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/nHyBswW.jpeg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/IQK3UcR.jpeg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/9iAl8qr.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/beEdlVB.jpeg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/1p89nEg.jpeg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/KupEPDh.jpeg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/5J4GCzT.jpeg", "caption": ""}
+    ],
+    "location": "whitsundays",
+    "additionalContent": "However diving below the worst of the churned up sand we saw a few things, I think I spotted a (brilliantly named) Wobbegong at the edge of the reef but couldn't get close enough to be sure. Heading back to the main boat we also saw an absolutely huge turtle drifting by on the surface before he craned his head to check us out and dived back down out of sight. Back on the boat after lunch we were also joined by a small pod of dolphins for a while before we set off for the infamous Whitehaven Beach. After a few hours sunbathing and a group picture at the viewpoint we got back on the boat and headed for Hook Passage to enjoy some dinner and drinks before yet another epic sunset. Later that night/early in the morning those of us who were still up were treated to a visit from about 30 or so black tipped reef sharks who were feeding on the smaller fish atracted by the light on the back of the boat, we sat there drinking and watching the sharks until a downpour and the fact that we had drunk the boat dry sent us below decks for the night."
+  },
+  {
+    "day": 132,
+    "title": "Whitsundays Day 3",
+    "description": "Our last day on the boat started with a post breakfast cruise back West to South Molle island where we went for a hike for an hour or so to get to an amazing lookout where you could see a load of the islands that make up the Whitsundays chain. Once we were at the top Cpt Dom told us a bit of the history of the islands along with his customary dose of questionable nonsense, after a group pic that nobody can seem to find we hiked back down and went for a final swim before our last lunch onboard and then with heavy hearts turned towards the mainland. Continued below...",
+    "images": [
+      {"id": 0, "src": "https://i.imgur.com/R1lIr8e.jpeg", "caption": ""},
+      {"id": 1, "src": "https://i.imgur.com/pLAxrqY.jpeg", "caption": ""},
+      {"id": 2, "src": "https://i.imgur.com/OtQkz6r.jpeg", "caption": ""},
+      {"id": 3, "src": "https://i.imgur.com/kU6t7oV.jpeg", "caption": ""},
+      {"id": 4, "src": "https://i.imgur.com/3MY5CdC.jpeg", "caption": ""},
+      {"id": 5, "src": "https://i.imgur.com/Q7wCybm.jpeg", "caption": ""},
+      {"id": 6, "src": "https://i.imgur.com/t5QkMcw.jpeg", "caption": ""},
+      {"id": 7, "src": "https://i.imgur.com/GRRF3Jl.jpeg", "caption": ""},
+      {"id": 8, "src": "https://i.imgur.com/v7IokOE.jpeg", "caption": ""}
+    ],
+    "location": "whitsundays",
+    "additionalContent": "Once we were back on land and we had all had our first proper shower in a while, everyone who was still in town and the crew met back up for a suitably rowdy game of Aussie bingo during which time we won about a million free drinks between us, which resulted in most of us ending up in an Irish bar at 3am dancing/trying not to fall over as if we were still out on a particularly rough day on the water. 2 hours of sleep later and I was up for the worst bus ride of my life to get to the airport and make my way all the way south to my final stop on this awesome trip, Melbourne."
   }
 ]
  
