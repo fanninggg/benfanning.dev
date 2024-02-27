@@ -72,7 +72,7 @@ export const Projects = () => {
   return (
     <div className="projects max-width portfolio-section">
       <h2>My Recent Work</h2>
-      <p>Here are a few of the projects I've worked on recently. Want to see more? <motion.a whileHover={{ scale: 1.05 }} href="mailto:fanninggg@gmail.com" className="linear-link" target="_blank">Email Me</motion.a></p>
+      <p>Here are a few of the projects I've worked on recently. Want to see more? <motion.a whileHover={{ scale: 1.05 }} href="mailto:fanning@hey.com" className="linear-link" target="_blank">Email Me</motion.a></p>
       {renderProjects()}
       
       <Modal show={show} onHide={handleClose} animation={false} className="portfolio-modal">

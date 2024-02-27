@@ -19,7 +19,7 @@ export const Landing = () => {
       <div className="landing-flex">
       </div>
       <motion.a className="btn-linear landing-btn" href={Resume} download="BenFanningResume" whileHover={{ scale: 1.05 }}>Download my CV</motion.a>
-      <motion.a className="text-link landing-text-link" href="mailto:fanninggg@gmail.com" target="_blank" whileHover={{ scale: 1.05 }} >...or get in contact</motion.a>
+      <motion.a className="text-link landing-text-link" href="mailto:fanning@hey.com" target="_blank" whileHover={{ scale: 1.05 }} >...or get in contact</motion.a>
       
       <Modal show={showResume} onHide={handleResumeClose} animation={false} style={{"color": "black"}}>
         <Modal.Body>
